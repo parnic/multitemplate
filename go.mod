@@ -1,4 +1,4 @@
-module github.com/gin-contrib/multitemplate
+module github.com/parnic/multitemplate
 
 require (
 	github.com/gin-gonic/gin v1.8.1
